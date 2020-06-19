@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RandomIntegerContainer
+comment0.text=\n\ Abiola\ Gabriel\ Olofin\n\ 02/04/2020\n\ \n\ This\ class\ we\ are\ creating\ methods\ that\ will\ add\ integers\ to\ an\ arrayList\n\ These\ methods\ include\ adding\ to\ the\ front,\ back,\ adding\ to\ a\ sorted\ arrayList,\n\ sorting\ the\ arrayList,\ and\ printing\ out\ an\ array\ of\ the\ arrayList\n
+comment1.params=
+comment1.target=RandomIntegerContainer()
+comment2.params=numElements
+comment2.target=RandomIntegerContainer(int)
+comment3.params=x
+comment3.target=void\ addToFront(int)
+comment4.params=x
+comment4.target=void\ addToBack(int)
+comment5.params=x
+comment5.target=void\ addSorted(int)
+comment6.params=x
+comment6.target=void\ productSorted(int)
+comment7.params=
+comment7.target=void\ selectionSort()
+comment8.params=
+comment8.target=int[]\ toArray()
+numComments=9

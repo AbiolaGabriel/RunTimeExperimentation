@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Abiola\ Gabriel\ Olofin\n\n\ In\ this\ class,\ we\ are\ experimenting\ with\ the\ amount\ of\ values\ being\ added\n\ to\ the\ arrayList\ and\ seeing\ how\ long\ it\ takes\ each\ method\ in\ the\ RandomIntegerClass\n\ to\ do\ the\ method\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed\ min\ max
+comment2.target=long\ timeAddToFront(int,\ int,\ int,\ int)
+comment2.text=\n\n\ @param\ numberOfItems\ -\ number\ of\ items\ to\ be\ added\n\ @param\ seed\ -\ seed\ number\ used\ to\ generate\ random\ numbers\n\ @param\ min\ -\ the\ minimum\ number\ to\ be\ generated\n\ @param\ max\ -\ the\ maximum\ number\ to\ be\ generated\n\ @return\ -\ return\ the\ time\ it\ took\ to\ do\ each\ method\ in\ the\ RandomIntegerContainer\n
+comment3.params=numberOfItems\ seed\ min\ max
+comment3.target=long\ timeAddToBack(int,\ int,\ int,\ int)
+comment4.params=numberOfItems\ seed\ min\ max
+comment4.target=long\ timeAddSorted(int,\ int,\ int,\ int)
+comment5.params=numberOfItems\ seed\ min\ max
+comment5.target=long\ timeProductSorted(int,\ int,\ int,\ int)
+comment6.params=numberOfItems\ seed\ min\ max
+comment6.target=long\ timeSortOfUnsortedList(int,\ int,\ int,\ int)
+comment7.params=numberOfItems\ seed\ min\ max
+comment7.target=long\ timeSortOfSortedList(int,\ int,\ int,\ int)
+numComments=8
